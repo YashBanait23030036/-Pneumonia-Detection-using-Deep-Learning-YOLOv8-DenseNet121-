@@ -1,0 +1,5 @@
+train: D:/rsna_dataset/processed_images/yolo_labels/images/train
+val: D:/rsna_dataset/processed_images/yolo_labels/images/val
+
+nc: 1
+names: ['pneumonia']
